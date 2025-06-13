@@ -26,3 +26,4 @@ package-mode = false
 
 [tool.poetry.scripts]
 create-run = "scripts.create_run:main"
+filter-claims = "scripts.filter_claims:main"
